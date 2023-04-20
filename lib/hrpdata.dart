@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library hrpdata;
 
-export 'src/hrpdata_base.dart';
+export 'src/data.dart';
 
 // TODO: Export any libraries intended for clients of this package.
